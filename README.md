@@ -1,2 +1,2 @@
-# C-feladatok
+# C++-feladatok
 C++ feladatok megoldással
