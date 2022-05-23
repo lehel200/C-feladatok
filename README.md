@@ -24,3 +24,8 @@ C++ feladatok megoldással
           -template<>
           -std::exception
           -std::function<>
+
+### tryAndCatch<br/>
+          -try blokk
+          -template
+          -std::exception
