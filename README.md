@@ -36,5 +36,5 @@ C++ feladatok megoldással
 
 ### tryAndCatch<br/>
           -try-catch blokk
-          -template
+          -template<>
           -std::exception
