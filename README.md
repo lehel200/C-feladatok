@@ -26,6 +26,6 @@ C++ feladatok megoldással
           -std::function<>
 
 ### tryAndCatch<br/>
-          -try blokk
+          -try-catch blokk
           -template
           -std::exception
