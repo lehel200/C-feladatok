@@ -29,6 +29,11 @@ C++ feladatok megoldással
           -std::exception
           -std::function<>
 
+### bonyiLista<br/>
+          -std::list<>
+          -std::weak_ptr<>
+          -std::variant<>
+
 ### tryAndCatch<br/>
           -try-catch blokk
           -template
