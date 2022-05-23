@@ -3,6 +3,10 @@ C++ feladatok megoldással
 
 ### AudioTextDocuments<br/>
           -std::variant<>
+          
+### Factorial
+          -template
+          -monad
 
 ### FindLargestInt<br/>
           -std::variant<>
