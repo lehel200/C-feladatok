@@ -4,7 +4,7 @@ C++ feladatok megoldással
 -AudioTextDocuments
           -std::variant<>
 
--FindLargestInt
+-FindLargestInt"\n"
           -std::variant<>
           -std::optional<>
           -std::any
