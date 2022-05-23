@@ -5,7 +5,7 @@ C++ feladatok megoldással
           -std::variant<>
           
 ### Factorial
-          -template
+          -template<>
           -monad
 
 ### FindLargestInt<br/>
