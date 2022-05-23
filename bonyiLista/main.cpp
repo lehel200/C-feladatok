@@ -22,8 +22,6 @@ using VariantOfIntChar = std::variant<int, char>;
 using WeakPtrList = std::list<std::weak_ptr<VariantOfIntChar>>;
 
 std::ostream& operator<<(std::ostream& o, VariantOfIntChar var) {
-	try
-	{
 		if(char* r = std::get_if<char>(&var)) {
 			return o << *r;
 		}
@@ -33,12 +31,8 @@ std::ostream& operator<<(std::ostream& o, VariantOfIntChar var) {
 		else {
 			return o;
 		}
-	}
-	catch (const std::bad_variant_access b)
-	{
-
-	}
 }
+
 
 std::ostream& operator<<(std::ostream& o, std::weak_ptr<VariantOfIntChar> ptr) {
 	if (std::shared_ptr<VariantOfIntChar> spt = ptr.lock())
