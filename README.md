@@ -1,7 +1,7 @@
 # C++-feladatok
 C++ feladatok megoldással
 
--AudioTextDocuments
+-AudioTextDocuments<br/>
           -std::variant<>
 
 -FindLargestInt<br/>
@@ -9,18 +9,18 @@ C++ feladatok megoldással
           -std::optional<>
           -std::any
 
--ProjectAndManagers
+-ProjectAndManagers<br/>
           -std::map<>
           -std::shared_ptr<>
           -std::weak_ptr<>
           
--Queue-Producer-Consumer
+-Queue-Producer-Consumer<br/>
           -std::thread
           -std::chrono
           -std::list<>
           -std::vector<>
 
--TemplateFailure
+-TemplateFailure<br/>
           -template<>
           -std::exception
           -std::function<>
